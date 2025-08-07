@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Rayn Liu</h1>
 
-<!--
-**ZIRUL-0902/ZIRUL-0902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  A high school student from Taiwan passionate about AI, programming, and open-source.<br>
+  Skilled in C++, Web Development, and currently diving into Machine Learning and Deep Learning.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🧠 Self-learning machine learning and deep learning
+- 💻 Experienced in C++, HTML, CSS, JavaScript
+- 🌍 Participated in:
+  - World Robot Olympiad (WRO)
+  - FIRST LEGO League (FLL)
+  - Asia-Pacific Robotics Championship (APRA)
+- 📚 Preparing for:
+  - Advanced Placement Computer Science (APCS)
+  - International Olympiad in Informatics (IOI)
+- 🎯 Goal: Get into a top Computer Science program and contribute to the open-source community
+
+---
+
+### 🛠️ Skills
+
+- Programming: `C++`, `Python`, `HTML`, `CSS`, `JavaScript`
+- Fields of Interest: `Artificial Intelligence`, `Web Development`, `Algorithms`
+
+---
+
+### 📊 GitHub Stats
+
+![Ziru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub帳號&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub帳號&layout=compact&theme=tokyonight)
+
+---
+
+### ❤️ Support Me
+
+If you like my work, consider sponsoring me to support future open-source contributions:
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/你的GitHub帳號)
+
+---
+
+### 📫 Contact
+
+- Email: your.email@example.com
+- Blog / Website: [your-website.com](https://your-website.com) *(optional)*
+
