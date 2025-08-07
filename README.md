@@ -31,9 +31,9 @@
 
 ### 📊 GitHub Stats
 
-![Ziru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub帳號&show_icons=true&theme=tokyonight)
+![Ziru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZIRUL-0902&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub帳號&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZIRUL-0902&layout=compact&theme=tokyonight)
 
 ---
 
@@ -41,12 +41,11 @@
 
 If you like my work, consider sponsoring me to support future open-source contributions:
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/你的GitHub帳號)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/ZIRUL-0902)
 
 ---
 
 ### 📫 Contact
 
-- Email: your.email@example.com
-- Blog / Website: [your-website.com](https://your-website.com) *(optional)*
-
+- Email: zirul9892@gmail.com
+- IG:(https://www.instagram.com/zirul.0902/)
