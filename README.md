@@ -15,9 +15,7 @@
   - World Robot Olympiad (WRO)
   - FIRST LEGO League (FLL)
   - Asia-Pacific Robotics Championship (APRA)
-- 📚 Preparing for:
-  - Advanced Placement Computer Science (APCS)
-  - International Olympiad in Informatics (IOI)
+  - Global Robotics Games (GRG)
 - 🎯 Goal: Get into a top Computer Science program and contribute to the open-source community
 
 ---
@@ -26,22 +24,6 @@
 
 - Programming: `C++`, `Python`, `HTML`, `CSS`, `JavaScript`
 - Fields of Interest: `Artificial Intelligence`, `Web Development`, `Algorithms`
-
----
-
-### 📊 GitHub Stats
-
-![Ziru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZIRUL-0902&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZIRUL-0902&layout=compact&theme=tokyonight)
-
----
-
-### ❤️ Support Me
-
-If you like my work, consider sponsoring me to support future open-source contributions:
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/ZIRUL-0902)
 
 ---
 
